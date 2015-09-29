@@ -1,0 +1,19 @@
+body {
+	
+
+}
+
+#wrapper {
+	max-width: 940px;
+	padding: 0 5%;
+	margin: 0 auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style:  none;
+}
+
